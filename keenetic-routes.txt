@@ -1,0 +1,163 @@
+# Keenetic DNS-маршруты (список ISWG)
+# Обновлено: 2026-06-28
+# Добавлять по одному на строке в раздел:
+# Сетевые правила → Маршрутизация → Маршруты DNS → список ISWG
+
+# ===== Мессенджеры =====
+
+# Telegram
+t.me
+telegram.org
+telegram.me
+telesco.pe
+cdn-telegram.org
+storage.telegram.org
+cdn1.telegram.org
+cdn2.telegram.org
+cdn3.telegram.org
+cdn4.telegram.org
+cdn5.telegram.org
+api.telegram.org
+web.telegram.org
+venus.web.telegram.org
+flora.web.telegram.org
+pluto.web.telegram.org
+aurora.web.telegram.org
+vesta.web.telegram.org
+91.108.4.0/22
+91.108.8.0/22
+91.108.12.0/22
+91.108.16.0/22
+91.108.20.0/22
+91.108.56.0/22
+149.154.160.0/20
+91.105.192.0/23
+95.161.64.0/20
+
+# WhatsApp
+whatsapp.com
+whatsapp.net
+web.whatsapp.com
+g.whatsapp.net
+mmg.whatsapp.net
+graph.whatsapp.com
+157.240.0.0/16
+31.13.24.0/21
+31.13.64.0/18
+173.252.64.0/18
+
+# FaceTime / Apple Push
+facetime.apple.com
+init-p01st.push.apple.com
+init.push.apple.com
+gateway.icloud.com
+gateway.push.apple.com
+17.0.0.0/8
+
+# ===== Видео =====
+
+# YouTube
+youtube.com
+studio.youtube.com
+m.youtube.com
+youtu.be
+youtube-nocookie.com
+youtube.googleapis.com
+youtubei.googleapis.com
+ytimg.com
+googlevideo.com
+
+# Instagram / Facebook
+instagram.com
+cdninstagram.com
+instagr.am
+igsonar.com
+ig.me
+31.13.24.0/17
+45.64.40.0/22
+57.141.0.0/20
+57.144.0.0/14
+66.220.144.0/20
+69.63.176.0/20
+69.171.224.0/19
+74.119.76.0/22
+102.132.96.0/20
+103.4.96.0/22
+129.134.0.0/17
+157.240.0.0/17
+157.240.192.0/18
+163.70.128.0/17
+173.252.64.0/19
+173.252.96.0/19
+179.60.192.0/22
+185.60.216.0/22
+204.15.20.0/22
+
+# TikTok
+tiktok.com
+
+# kino.pub
+kino.pub
+kinopub.online
+iptv.online
+cdn4t.xyz
+smarttv.zeasn.tv
+pushbr.com
+m.pushbr.com
+media.service-kp.com
+api.service-kp.com
+api.alador.space
+i0.wp.com
+cdn2site.com
+digital-cdn.net
+cdn2cdn.com
+api.srvkp.com
+api.ios-kp.store
+kinoapi.com
+
+# ===== AI сервисы =====
+
+# ChatGPT / OpenAI
+openai.com
+oaistatic.com
+oaiusercontent.com
+chatgpt.com
+sora.com
+
+# Claude / Anthropic
+claude.ai
+anthropic.com
+api.anthropic.com
+console.anthropic.com
+cdn.claude.ai
+claudeusercontent.com
+
+# Perplexity
+perplexity.ai
+
+# ===== Google =====
+googleapis.com
+google.com
+gstatic.com
+googleusercontent.com
+gmail.com
+google.ru
+
+# ===== Прочее =====
+
+# Cloudflare CDN
+challenges.cloudflare.com
+cdnjs.cloudflare.com
+
+# Speedtest
+speedtest.net
+ookla.com
+speedtest.com.sg
+fast.com
+
+# Сайты
+ntc.party
+4pda.to
+flibusta.is
+drive2.ru
+rbc.ru
